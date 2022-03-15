@@ -1,0 +1,2 @@
+# webdasturlar
+python
